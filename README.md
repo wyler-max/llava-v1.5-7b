@@ -1,5 +1,6 @@
 ---
 inference: false
+license: llama2
 ---
 
 <br>
