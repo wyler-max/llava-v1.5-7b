@@ -1,5 +1,6 @@
 ---
 inference: false
+pipeline_tag: image-text-to-text
 ---
 
 <br>
